@@ -8,7 +8,7 @@ This is the repository which includes everything related to my personal website 
 
 The website is built with Jekyll and uses the [Scriptor](https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme) theme which is licensed under the [MIT license](https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme/blob/master/LICENSE.md).
 Any modifications done to the theme by me are also licensed under the [MIT license](https://github.com/maticbasle/maticbasle.github.io/blob/master/LICENSE.md).
-Content on the website *(such as blog posts etc.)* are written by me. Images on the website have copyright information attached to them.
+Content on the website *(such as blog posts etc.)* is written by me. Images on the website have copyright information attached to them.
 
 
 
