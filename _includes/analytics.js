@@ -4,5 +4,5 @@
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-ga('create', 'G-MV22P36K70', { 'anonymize_ip': true });
+ga('create', 'G-PQXJQGY6MK', { 'anonymize_ip': true });
 ga('send', 'pageview');
